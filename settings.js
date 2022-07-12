@@ -19,32 +19,32 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
+global.owner = ['01006978237']
 global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
+global.ownernomer = '01006978237'
+global.ownername = 'Àĥmèđ Şàłáĥ'
+global.botname = 'Ahmed-jojo-bot'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
-global.sessionName = 'session'
+global.packname = 'Ahmed-Gojo-Satoru'
+global.author = '🐦Àĥmèđ Şàłáĥ'
+global.sessionName = 'czIxMlJtbmQ='
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    success: 'فعله ✓',
+    admin: '!هذه الميزة للمشرف فقط',
+    botAdmin: '!يجب أن يكون البوت ادمن أولاً',
+    owner: '!هذه الميزة للمالك فقط',
+    group: '!هذه الميزة تستخدم فقط للمجموعات',
+    private: '!الميزات المستخدمة فقط للدردشة الخاصة',
+    bot: '!هذه الميزة مخصصة للبوت فقط',
+    wait: '...انتظر دقيقة',
+    error: 'خطأ!  ربما انتهت صلاحية مفتاح Api🤔!',
+    endLimit: 'انتهت صلاحية الحد اليومي الخاص بك ، سيتم إعادة تعيين الحد كل 12 ساعة',
 }
     global.limitawal = {
     premium: "Infinity",
@@ -52,11 +52,11 @@ global.mess = {
     monayawal: 1000
 }
    global.rpg = {
-   darahawal: 100,
-   besiawal: 15,
-   goldawal: 10,
-   emeraldawal: 5,
-   umpanawal: 5,
+   darahawal: 1000,
+   besiawal: 20,
+   goldawal: 20,
+   emeraldawal: 10,
+   umpanawal: 10,
    potionawal: 1
 }
 global.thumb = fs.readFileSync('./GojoMedia/gojo.jpg')
