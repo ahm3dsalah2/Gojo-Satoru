@@ -20,7 +20,7 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['01006978237']
-global.premium = ['Your Number']
+global.premium = ['01006978237']
 global.ownernomer = '01006978237'
 global.ownername = 'Àĥmèđ Şàłáĥ'
 global.botname = 'Ahmed-jojo-bot'
@@ -52,11 +52,11 @@ global.mess = {
     monayawal: 1000
 }
    global.rpg = {
-   darahawal: 1000,
-   besiawal: 20,
-   goldawal: 20,
-   emeraldawal: 10,
-   umpanawal: 10,
+   darahawal: 200,
+   besiawal:15,
+   goldawal: 13,
+   emeraldawal: 5,
+   umpanawal: 5,
    potionawal: 1
 }
 global.thumb = fs.readFileSync('./GojoMedia/gojo.jpg')
